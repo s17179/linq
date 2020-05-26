@@ -1,0 +1,13 @@
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.exe
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.deps.json
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.json
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.runtimeconfig.dev.json
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.dll
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\bin\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csprojAssemblyReference.cache
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.AssemblyInfo.cs
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.dll
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.pdb
+C:\Users\Dominik\Downloads\LinqConsoleApp\LinqConsoleApp\obj\Debug\netcoreapp3.1\LinqConsoleApp.genruntimeconfig.cache
